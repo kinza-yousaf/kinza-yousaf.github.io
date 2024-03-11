@@ -1,0 +1,9 @@
+- title: LinkedIn
+  url: https://linkedin.com/in/kinzayousaf
+  icon: fab fa-linkedin
+- title: GitHub
+  url: https://github.com/kinza-yousaf
+  icon: fab fa-github
+- title: CV
+  url: https://kinza-yousaf.github.io/assets/Resume.pdf
+  icon: fas fa-file-alt
