@@ -16,5 +16,5 @@ I am taking the "DevOps and Continuous Integration" course at CMU.<br>
 Honored with placement on the Dean's Honor List. Committed to upholding this achievement.<br>
 
 ## <span style="color: #00b1c9;">Miscellaneous</span>
--My Spotify recents:
+-My Spotify recents:<br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31v33biphanpghxmlwwpweb7aidy&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=fec700&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31v33biphanpghxmlwwpweb7aidy&redirect=true)
