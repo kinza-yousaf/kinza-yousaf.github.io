@@ -10,8 +10,8 @@ layout: home
 Welcome to my GitHub profile! I'm a first-year Information Systems Management Masters student at **[Carnegie Mellon University](https://www.cmu.edu/){: style="color: red;"}**, sponsored by the US Department of State. With a CS degree from **[LUMS](https://www.lums.edu.pk/){: style="color: red;"}**, I'm now delving deeper into *Distributed Systems* and *Scalable Machine Learning* as part of my graduate studies. Join me on my journey as I explore the fascinating realms of technology, share insights, and document my experiences. 
 
 ## <span style="color: #00b1c9;">Ongoing Projects</span>
-- MLD project. Doing Distributed Deep Learning.
-- Cryptography in Distributed Systems.
+- Scalable Deep Learning: Employing sophisticated pruning techniques to refine deep neural network architectures, maintaining accuracy while drastically reducing Floating Point Operations (FLOPs). Our aim is to optimize deep learning models for seamless deployment on mobile devices, ensuring efficiency without compromising performance.
+- Security in Distributed Systems: Implementing RSA encryption and digital signatures to fortify the integrity of blockchain transactions. Our project is dedicated to enhancing the security protocols within distributed systems, ensuring robustness in every transactional exchange.
 
 
 ## <span style="color: #00b1c9;">Stories</span>
