@@ -22,7 +22,7 @@ I am taking the "DevOps and Continuous Integration" course at CMU.<br>
 Honored with placement on the Dean's Honor List. Committed to upholding this achievement.<br>
 
 ## <span style="color: #00b1c9;">My Tech Stack</span>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,aws,postgres,r,androidstudio,tensorflow,terraform)](https://skillicons.dev)
 
 ## <span style="color: #00b1c9;">Miscellaneous</span>
 -My Spotify recents:<br>
