@@ -7,7 +7,7 @@ layout: home
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="background-color: transparent; border: none;"> I am Kinza!
 
-Welcome to my GitHub profile! I'm a first-year Information Systems Management Masters student at **[Carnegie Mellon University](https://www.cmu.edu/){: style="color: red;"}**, sponsored by the US Department of State. With a CS degree from **[LUMS](https://www.lums.edu.pk/){: style="color: red;"}**, I'm now delving deeper into *Distributed Systems* and *Scalable Machine Learning* as part of my graduate studies. Join me on my journey as I explore the fascinating realms of technology, share insights, and document my experiences. 
+Welcome to my GitHub profile! I'm a first-year Information Systems Management Masters student at **[Carnegie Mellon University](https://www.cmu.edu/){: style="color: red;"}**, sponsored by the US Department of State. With a CS degree from **[Lahore University of Management Sciences](https://www.lums.edu.pk/){: style="color: red;"}**, I'm now delving deeper into *Distributed Systems* and *Scalable Machine Learning* as part of my graduate studies. Join me on my journey as I explore the fascinating realms of technology, share insights, and document my experiences. 
 
 ## <span style="color: #00b1c9;">Ongoing Projects</span>
 - Scalable Deep Learning: Employing sophisticated pruning techniques to refine deep neural network architectures, maintaining accuracy while drastically reducing Floating Point Operations (FLOPs). Our aim is to optimize deep learning models for seamless deployment on mobile devices, ensuring efficiency without compromising performance.
