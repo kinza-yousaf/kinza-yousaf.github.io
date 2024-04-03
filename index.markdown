@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a first-year Information Systems Management Ma
 
 ## <span style="color: #00b1c9;">Ongoing Projects</span>
 - Scalable Deep Learning: Employing sophisticated pruning techniques to refine deep neural network architectures, maintaining accuracy while drastically reducing Floating Point Operations (FLOPs). Our aim is to optimize deep learning models for seamless deployment on mobile devices, ensuring efficiency without compromising performance.
-- Security in Distributed Systems: Implementing RSA encryption and digital signatures to fortify the integrity of blockchain transactions. Our project is dedicated to enhancing the security protocols within distributed systems, ensuring robustness in every transactional exchange.
+- Security in Distributed Systems: Implementing RSA encryption and digital signatures to fortify the integrity of blockchain transactions. My project is dedicated to enhancing the security protocols within distributed systems, ensuring robustness in every transactional exchange.
 - Continous Integration Pipeline: Implementing a CI pipeline utilizing Jenkins, Blue Ocean, and SonarQube for streamlined development workflows. Conducting static analysis on open-source applications to ensure code quality and reliability.
 
 
