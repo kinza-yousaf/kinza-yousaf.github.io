@@ -31,7 +31,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://kinza-yousaf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: kinzayousaf
 github_username:  kinza-yousaf
-skin: midnight
+skin: Daylight
 subscribe: False
 location: Pittsburgh, PA
 
