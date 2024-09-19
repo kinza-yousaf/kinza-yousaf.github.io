@@ -15,11 +15,6 @@ Welcome to my GitHub profile! I'm a first-year Information Systems Management Ma
 - Continous Integration Pipeline: Implementing a CI pipeline utilizing Jenkins, Blue Ocean, and SonarQube for streamlined development workflows. Conducting static analysis on open-source applications to ensure code quality and reliability.
 
 
-## <span style="color: #00b1c9;">Stories</span>
--<span style="font-size: 0.8em; font-style: italic;">March 10, 2024</span><br>
-I am taking the "DevOps and Continuous Integration" course at CMU.<br>
--<span style="font-size: 0.8em; font-style: italic;">January 10, 2024</span><br>
-Honored with placement on the Dean's Honor List. Committed to upholding this achievement.<br>
 
 ## <span style="color: #00b1c9;">My Tech Stack</span>
 [![My Skills](https://skillicons.dev/icons?i=java,aws,postgres,r,androidstudio,tensorflow,terraform)](https://skillicons.dev)
